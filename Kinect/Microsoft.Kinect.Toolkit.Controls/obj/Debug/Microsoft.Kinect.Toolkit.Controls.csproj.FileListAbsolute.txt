@@ -1,0 +1,16 @@
+C:\Users\uidw2613\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\uidw2613\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\uidw2613\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\uidw2613\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\uidw2613\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\uidw2613\Desktop\InteractionGallery-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\uidw2613\Desktop\InteractionGallery-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\uidw2613\Desktop\InteractionGallery-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\uidw2613\Desktop\InteractionGallery-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb

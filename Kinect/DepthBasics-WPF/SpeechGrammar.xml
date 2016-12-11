@@ -1,0 +1,77 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag> MOVE </tag>
+        <one-of>
+          <item> forwards </item>
+          <item> forward </item>
+          <item> straight </item>
+          <item> move </item>
+          <item> go </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>DOWN</tag>
+        <one-of>
+          <item> downward </item>
+          <item> downwards </item>
+          <item> down </item>
+          <item> ground </item>
+          
+        </one-of>
+      </item>
+      <item>
+        <tag>LEFT</tag>
+        <one-of>
+          <item> turn left </item>
+          <item> left </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHT</tag>
+        <one-of>
+          <item> turn right </item>
+          <item> right </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> HUG </tag>
+        <one-of>
+          <item> hug </item>
+          <item> hug me </item>
+          <item> sad </item>
+          <item> am sad </item>
+          <item> mommy </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> HS </tag>
+        <one-of>
+          <item> hey </item>
+          <item> hello </item>
+          <item> hallo </item>
+          <item> hand </item>
+          <item> meet </item>
+          <item> hy </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> HF </tag>
+        <one-of>
+          <item> high </item>
+          <item> up </item>
+          <item> give </item>
+          <item> happy </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> WAVE </tag>
+        <one-of>
+          <item> do the </item>
+          <item> wave </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,17 @@
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\uidw2613\Desktop\DepthBasics-WPF\bin\Debug\Microsoft.Speech.dll
